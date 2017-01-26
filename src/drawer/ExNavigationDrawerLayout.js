@@ -160,8 +160,8 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'flex-start',
     alignItems: 'center',
-    paddingVertical: 10,
-    paddingHorizontal: 15,
+    paddingVertical: 0,
+    paddingHorizontal: 0,
   },
   elementContainer: {
     flexDirection: 'row',
