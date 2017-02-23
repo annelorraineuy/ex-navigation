@@ -140,10 +140,10 @@ const buttonStyles = StyleSheet.create({
     resizeMode: 'contain',
     ...Platform.select({
       ios: {
-        height: 26,
-        width: 26,
-        marginLeft: 8,
-        marginRight: 6,
+        height: 24,
+        width: 24,
+        marginLeft: 10,
+        marginRight: 8,
       },
       android: {
         height: 24,
